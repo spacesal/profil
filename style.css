@@ -231,11 +231,6 @@ a:hover {
         margin-right: 5%;
         margin-bottom: 10px;
     }
-    .box-image img {
-        height: 400px;
-        object-fit: cover;
-    
-    }
     img {
     
         max-width: 100%;
@@ -245,7 +240,6 @@ a:hover {
     }
     .box-text {
         padding: 0;
-        margin-left: -100px;
         overflow: hidden;
         text-align: left;
     }
